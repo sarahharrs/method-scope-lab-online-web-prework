@@ -1,4 +1,4 @@
-phase = "It's s-a-me, Mario"
+phrase="It's-a-me, Mario!"
 def catch_phrase(phrase)
-  puts #{phrase}
+  puts "#{phrase}""
 end
